@@ -9,7 +9,7 @@ Helpful shell scripts written by @droxey.
 
 ## Included Scripts
 
-### 👤➡️👤 Change Repository Git Author 
+### 👤 Change Repository Git Author 
 
 Clones a GitHub repository in bare mode, amends the username and email address of each commit, and pushes the amended commits to the original GitHub repository. Does not change commit date or message information!
 
